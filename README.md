@@ -1,2 +1,2 @@
 # User-Study
-![image](Questionnaire Result.png)
+![image](QuestionnaireResult.png)
